@@ -1,5 +1,5 @@
 package gocatdog
 
 func SayCatDog() string {
-	return "CatDog"
+	return "CatDog UwU"
 }
